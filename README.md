@@ -2,10 +2,10 @@
 
 1. requests 改用 post
 
-2. arbitrum 的 subgraphs 缺少以下2個欄位暫無法執行
+2. 目前限定使用Ethereum (network = 1)
    
-   目前限定使用Ethereum (network = 1)
-   
+   因為arbitrum 的 subgraphs 缺少以下2個欄位故暫無法執行
+     
    feeGrowthGlobal0X128
    
    feeGrowthGlobal1X128
