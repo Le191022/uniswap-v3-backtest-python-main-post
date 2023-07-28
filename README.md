@@ -9,3 +9,9 @@
    feeGrowthGlobal0X128
    
    feeGrowthGlobal1X128
+
+==============================   
+
+原程式碼進行下列安裝後即可執行
+
+pip install "gql[all]"
